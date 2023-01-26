@@ -10,7 +10,7 @@
 
 <body>
     <h1>Hello world</h1>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam eum quis voluptate ut doloribus iste, harum expedita, hic fugiat porro repellendus praesentium suscipit eveniet officia nobis! Ullam cumque soluta quo.</p>
+    <h2>SALOM!</h2>
 </body>
 
 </html>
